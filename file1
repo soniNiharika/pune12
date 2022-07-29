@@ -4,3 +4,6 @@
 to set user name for current repository to niharika
 
 --- git config user.name "niharika"
+to stage all new, modified, and deleted files
+
+--- git add -A
