@@ -10,3 +10,6 @@ to stage all new, modified, and deleted files
 to check the compact version of the status for repository
 
 --- git status --short
+commit the updated files directly skipping the staging area
+
+--- git commit -a -m "commit message"
