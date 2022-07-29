@@ -13,3 +13,6 @@ to check the compact version of the status for repository
 commit the updated files directly skipping the staging area
 
 --- git commit -a -m "commit message"
+create, and move  to new branch with the name hello-you
+
+--- git checkout -b hello-you
