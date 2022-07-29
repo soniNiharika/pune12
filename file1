@@ -7,3 +7,6 @@ to set user name for current repository to niharika
 to stage all new, modified, and deleted files
 
 --- git add -A
+to check the compact version of the status for repository
+
+--- git status --short
